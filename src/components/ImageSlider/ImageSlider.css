@@ -1,0 +1,7 @@
+.slider_main_div {
+  display: flex;
+  align-items: center;
+}
+.image-slider {
+  margin: auto;
+}
